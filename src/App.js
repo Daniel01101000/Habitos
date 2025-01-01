@@ -8,5 +8,4 @@ function App() {
   );
 }
 
-console.log('Hola mundo');
 export default App;
